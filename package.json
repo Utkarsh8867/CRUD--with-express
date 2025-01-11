@@ -9,7 +9,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "UTKARSH_KADU",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
